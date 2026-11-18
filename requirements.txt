@@ -1,0 +1,7 @@
+Flask
+Flask-Login
+pandas
+numpy
+scikit-learn
+joblib
+mysql-connector-python
